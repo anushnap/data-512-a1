@@ -1,0 +1,3 @@
+Data collected using the Wikimedia Foundation Pagecounts and Pageviews API by Anushna Prakash from the University of Washington for the purposes of the class DATA 512 - Human-Centered Data Science.
+
+The project indicates which version of Wikipedia is being queried, in this case English Wikipedia from en.wikipedia.org. The granularity references the time period we are examining page views, which is monthly. The access field refers to how the Wikipedia page was accessed, and this can range from desktop, mobile web, mobile app, or just mobile (prior to different access methods being tracked). The timestamp field is the date-time of data aggregation, formatted as YYYYMMDDHH.
